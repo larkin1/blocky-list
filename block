@@ -1,1 +1,5 @@
-
+# Block list for blocky
+# Accepted formats are:
+# site.net
+# *.site.net
+# <addr> site.net 
