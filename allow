@@ -3,3 +3,10 @@
 # site.net
 # *.site.net
 # <addr> site.net
+
+# Ad-block walls (tested 2026-11-09). Google Ad Manager + Funding Choices: required by foxnews.com (and the shared news.com.au ad stack)
+securepubads.g.doubleclick.net
+tpc.googlesyndication.com
+fundingchoicesmessages.google.com
+# news.com.au first-party tag host
+tags.news.com.au
